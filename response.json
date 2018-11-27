@@ -1,0 +1,45 @@
+{
+  "Response": {
+    "status": 200,
+    "flightInfo": {
+      "logo": null,
+      "airlineName": null,
+      "airlineCode": "AAL",
+      "airlineCodeIata": null,
+      "tailNumber": "N762US",
+      "flightNumberInfo": "AAL518",
+      "flightNumberAlpha": null,
+      "flightNumberNumeric": null,
+      "departureAirportCode": "KDCA",
+      "destinationAirportCode": "KCLT",
+      "departureAirportCodeIata": "DCA",
+      "destinationAirportCodeIata": "CLT",
+      "departureAirportLatitude": 38.85,
+      "destinationAirportLatitude": 35.21,
+      "departureAirportLongitude": -77.03,
+      "destinationAirportLongitude": -80.93,
+      "origin": null,
+      "destination": null,
+      "departureCity": null,
+      "destinationCity": null,
+      "expectedArrival": "2018-10-25T18:49:00.000Z",
+      "abpVersion": "7.0.9_pingpong",
+      "acpuVersion": "10.9.0",
+      "videoService": false,
+      "latitude": 38.4889,
+      "longitude": -77.651,
+      "altitude": 17829.982,
+      "localTime": null,
+      "utcTime": "2018-10-25T18:05:03.405Z",
+      "hspeed": 438.40912,
+      "vspeed": 27.409092
+    },
+    "gogoFacts": "Aircell (Gogo's parent company) holds 15 patents on their innovations in airborne telecommunications.",
+    "serviceInfo": {
+      "service": "Inactive",
+      "remaining": 0,
+      "quality": null,
+      "alerts": []
+    }
+  }
+}
